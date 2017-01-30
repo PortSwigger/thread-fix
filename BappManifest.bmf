@@ -8,4 +8,4 @@ ProOnly: True
 Author:  Denim Group
 ShortDescription: Provides an interface to the ThreadFix vulnerability management platform.
 EntryPoint: threadfix-scanner-plugin/burp/target/threadfix-release-2-jar-with-dependencies.jar
-BuildCommand: mvn package -DskipTests=true -Dmaven.javadoc.skip=true -B
+BuildCommand: mvn package -DskipTests=true -Dmaven.javadoc.skip=true -B -pl threadfix-scanner-plugin/burp -am
