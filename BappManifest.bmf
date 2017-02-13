@@ -1,6 +1,7 @@
 Uuid: 0b0100a98b1c4a0e927f34eac9d01afe
 ExtensionType: 1
 Name: ThreadFix
+RepoName: thread-fix
 ScreenVersion: 2.3
 SerialVersion: 3
 MinPlatformVersion: 0
